@@ -1,0 +1,33 @@
+/* line 1, sass/components/_menu.scss */
+.navbar-default {
+  background-color: #000000;
+}
+/* line 5, sass/components/_menu.scss */
+.navbar-default .navbar-nav li a {
+  color: white;
+}
+/* line 10, sass/components/_menu.scss */
+.navbar-default .navbar-nav .active a {
+  color: white;
+  background-color: black;
+}
+/* line 16, sass/components/_menu.scss */
+.navbar-default .navbar-brand {
+  color: #fff;
+}
+
+/* line 1, sass/layout/_layout.scss */
+img {
+  max-width: 100%;
+}
+
+/* line 5, sass/layout/_layout.scss */
+.copyright {
+  text-align: center;
+  margin-top: 10px;
+}
+
+/* line 10, sass/layout/_layout.scss */
+.dropdown-menu {
+  background-color: #000;
+}

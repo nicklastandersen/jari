@@ -1,0 +1,19 @@
+.navbar-default {
+  background-color: #000000;
+  .navbar-nav {
+    li {
+      a {
+        color: white;
+      }
+    }
+    .active {
+      a {
+        color: white;
+        background-color: black;
+      }
+    }
+  }
+  .navbar-brand {
+    color: #fff;
+  }
+}
